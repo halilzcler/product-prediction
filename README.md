@@ -1,5 +1,4 @@
-# Product Prediction
+#Product Prediction
 
-<p>&emsp;In this python file I will test prediction algorithms. After testing according to their accuracy scores, I will compare them with each other and thus I will see which prediction algorithm is the best fit for this kind of situation, then I will use that algorithm for  We will use 5 classification algorithms for our test. KNN, Decision Tree, Random Forest, Gaussian NB and Logistic Regression algorithms is going to be used for this prediction program.</p>
-<br>  
-<p>&emsp;In the end of the test we will find best prediction algorithm for our dataset and use that algorithm for prediction.</p>
+<p>&emsp;Train dataset has predictions(3rd column in dataset) and test dataset does not have any predictions. The goal of this Case Study finding best prediction algorithm for test data. First of all I will clear data and make it usable for scikit machine learning prediction algorithms, then I will use 5 classification algorithms for our test. After testing their accuracy scores, I will compare them with each other and thus I will be able to check which prediction algorithm is the best fit for this kind of situation. KNN, Decision Tree, Random Forest, Gaussian NB and Logistic Regression algorithms is going to be used for this prediction program.</p>
+<br>
